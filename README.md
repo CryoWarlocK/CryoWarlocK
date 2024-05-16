@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CryoWarlocK
 - 👀 I’m interested in Web development, Robotics and Automations
-- 🌱 I’m currently learning MERN and MEAN stacks
+- 🌱 I’m currently learning NEXT.js to build powerful fullstack applications
 
 
 <!---
